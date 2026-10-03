@@ -1,0 +1,7 @@
+# Written by Copier from samclement/swhurl-app-template-kotlin; `copier update` reads it. Do not edit.
+_commit: v0.1.2-3-gf90e9c5
+_src_path: .
+app_name: swhurl-try-9
+database: none
+description: kotlin cold-cache measurement, delete me
+kind: web
